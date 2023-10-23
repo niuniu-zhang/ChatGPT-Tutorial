@@ -1,6 +1,6 @@
 # Java with ChatGPT
 
-This repository showcases a journey of creating Java code from scratch using OpenAI's ChatGPT given the [exercise prompt](Exercise.md). The repository includes setup scripts for Java environment (Linux) and the actual Java code, which represents an animal hierarchy.
+This repository showcases a journey of creating Java code from scratch using OpenAI's ChatGPT given the [exercise prompt](Exercise.md). The repository includes setup scripts for Java environment (Linux) and the actual Java code, which represents an animal hierarchy. For a detailed understanding of the conversation and the requirements that led to this code, you can refer to the [ChatGPT Conversation](https://chat.openai.com/share/d9b5cbd9-c9be-4322-85a3-59b5194af631).
 
 ## Repository Structure
 
@@ -13,9 +13,7 @@ Contained within this directory are setup scripts for your Java environment on L
 
 ### Java Code
 
-The `animal_class.java` file contains the Java classes resulting from the requirements shared with ChatGPT. It showcases the design of an animal hierarchy with the superclass `Animal` and its subclass `Dog`.
-
-For a detailed understanding of the conversation and the requirements that led to this code, you can refer to the [ChatGPT Conversation](https://chat.openai.com/share/d9b5cbd9-c9be-4322-85a3-59b5194af631).
+The `animal_class.java` file contains the Java classes resulting from the [exercise prompt](Exercise.md) shared with ChatGPT. It showcases the design of an animal hierarchy with the superclass `Animal` and its subclass `Dog`.
 
 ## Getting Started
 
