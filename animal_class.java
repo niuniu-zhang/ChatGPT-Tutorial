@@ -3,11 +3,14 @@ class Animal {
     String name;
     int age;
 
-    // // Constructor to initialize attributes
-    // Animal(String name, int age) {
-    //     this.name = name;
-    //     this.age = age;
-    // }
+    Animal(){
+        
+    }
+     // Constructor to initialize attributes
+     Animal(String name) {
+         this.name = name;
+         System.out.println("animalllll");
+     }
 
     // Getter for name
     String getName() {
