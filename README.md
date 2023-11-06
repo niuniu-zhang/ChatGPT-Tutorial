@@ -1,34 +1,15 @@
-# Java with ChatGPT
+# ChatGPT Tutorial
 
-This repository showcases a journey of creating Java code from scratch using OpenAI's ChatGPT given the [exercise prompt](Exercise.md). The repository includes setup scripts for Java environment (Linux) and the actual Java code, which represents an animal hierarchy. For a detailed understanding of the conversation and the requirements that led to this code, you can refer to the [ChatGPT Conversation](https://chat.openai.com/share/d9b5cbd9-c9be-4322-85a3-59b5194af631).
+This repository contains teaching/reading material regarding how to use ChatGPT effectively to boost learning for coding, specifically tailored for high school student coders involved in the [Finiverse project](https://www.finiverse.org/our-mission). Our goal is to teach students to harness the power of AI to enhance their learning and facilitate their contribution towards the completion of the [student loan project](https://www.finiverse.org/college-costs).
 
 ## Repository Structure
+Within this directory, you'll find individual tutorials that address various questions:
 
-### Java Environment Setup (`java_env_setup/`)
+- [Java_coding](Java_coding): Showcases how to use ChatGPT to code in Java without prior knowledge. Inside this folder, you'll find code examples and specific tutorials.
+  
+- [Guides](Guides): Contains a list of guides that address common problems beginners in Java might encounter.
+  - [Git Guide](Guides/GitGuide.md): Learn how to handle tricky git situations with the assistance of ChatGPT.
+  - [PostgreSQL](Guides/PostgreSQL.md): Learn the basics of PostgreSQL and how to interact with databases which can be integral for managing financial data within the Finiverse project.
 
-Contained within this directory are setup scripts for your Java environment on Linux:
-
-- `java_installer.sh`: Script to install Java.
-- `java_uninstaller.sh`: Script to uninstall Java.
-
-### Java Code
-
-The `animal_class.java` file contains the Java classes resulting from the [exercise prompt](Exercise.md) shared with ChatGPT. It showcases the design of an animal hierarchy with the superclass `Animal` and its subclass `Dog`.
-
-## Getting Started
-
-1. **Setting up the Java Environment (Linux)**:
-   Navigate to the `java_env_setup/` directory and run the `install_java.sh` script:
-   
-   ```bash
-   cd java_env_setup/
-   chmod +x java_installer.sh
-   ./java_installer.sh
-
-2. **Run the code**:
-    Build the class, then run the test:
-
-    ```bash
-    javac animal_class.java
-    java Test
-    ```
+## Contributing to the Finiverse Mission
+We align our tutorials and guides with real-world coding challenges, such as those faced by high school students working on financial management tools for the Finiverse project. Contributors are encouraged to develop materials that support and enhance the Finiverse mission, helping to bridge the gap between learning to code and applying those skills to impactful projects.
