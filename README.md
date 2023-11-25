@@ -11,6 +11,7 @@ Within this directory, you'll find individual tutorials addressing various aspec
   - [Git Guide](Guides/GitGuide.md): A tutorial on handling complex git situations with ChatGPT's help.
   - [PostgreSQL](Guides/PostgreSQL.md): Demonstrates using ChatGPT to understand basics of PostgreSQL, emphasizing how to learn new concepts and tools from ChatGPT through Socratic inquiry.
   - [Coding Poet](Guides/CodingPoet.md): A guide on using ChatGPT to write efficient code documentation and comments, enhancing coding skills.
+  - [Java Data Structures](Guides/DataStructure.md): A comprehensive guide exploring key Java data structures like Array, ArrayList, LinkedList, HashSet, and HashMap, with practical examples and real-life applications, facilitated through ChatGPT.
 
 ## Contributing to the Finiverse Mission
 We encourage contributors to develop materials that align with the Finiverse project's real-world challenges. This approach helps bridge the gap between learning to code and applying those skills to impactful projects, enhancing the educational journey of high school coders.
